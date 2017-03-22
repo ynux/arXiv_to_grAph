@@ -1,0 +1,39 @@
+         {
+            "title" : {
+               "#text" : "A note on the stationary Euler equations of hydrodynamics"
+            },
+            "doi" : {
+               "#text" : "10.1017/etds.2015.50"
+            },
+            "author" : [
+               {
+                  "#text" : "\n      ",
+                  "name" : {
+                     "#text" : "K. Cieliebak"
+                  }
+               },
+               {
+                  "#text" : "\n      ",
+                  "name" : {
+                     "#text" : "E. Volkov"
+                  }
+               }
+            ],
+            "primary_category" : {
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "published" : {
+               "#text" : "2014-02-26T10:48:01Z"
+            },
+            "summary" : {
+               "#text" : "  This note concerns stationary solutions of the Euler equations for an ideal\nfluid on a closed 3-manifold. We prove that if the velocity field of such a\nsolution has no zeroes and real analytic Bernoulli function, then it can be\nrescaled to the Reeb vector field of a stable Hamiltonian structure. In\nparticular, such a vector field has a periodic orbit unless the 3-manifold is a\ntorus bundle over the circle. We provide a counterexample showing that the\ncorrespondence breaks down without the real analyticity hypothesis.\n"
+            },
+            "updated" : {
+               "#text" : "2014-03-15T16:39:23Z"
+            },
+            "#text" : "\n    ",
+            "comment" : {
+               "#text" : "28 pages, no figures, counterexample added"
+            }
+         }

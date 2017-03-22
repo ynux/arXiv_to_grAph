@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link href="http://arxiv.org/api/query?search_query%3Dcat%3Amath.SG%20AND%20au%3Acieliebak%26id_list%3D%26start%3D0%26max_results%3D80" rel="self" type="application/atom+xml"/>
+  <title type="html">ArXiv Query: search_query=cat:math.SG AND au:cieliebak&amp;id_list=&amp;start=0&amp;max_results=80</title>
+  <id>http://arxiv.org/api/AjuYuIs+scVLRYD9r0uMaJ0Wbws</id>
+  <updated>2017-03-21T00:00:00-04:00</updated>
+  <opensearch:totalResults xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">30</opensearch:totalResults>
+  <opensearch:startIndex xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">0</opensearch:startIndex>
+  <opensearch:itemsPerPage xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">80</opensearch:itemsPerPage>
+  <entry>
+    <id>http://arxiv.org/abs/math/0204351v1</id>
+    <updated>2002-04-30T11:54:22Z</updated>
+    <published>2002-04-30T11:54:22Z</published>
+    <title>Subcritical Stein manifolds are split</title>
+    <summary>  It is shown that every subcritical Stein manifold is deformation equivalent
+to the product of a Stein manifold with $\C$.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">6 pages</arxiv:comment>
+    <link href="http://arxiv.org/abs/math/0204351v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/math/0204351v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.DG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.DG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1402.6484v2</id>
+    <updated>2014-03-15T16:39:23Z</updated>
+    <published>2014-02-26T10:48:01Z</published>
+    <title>A note on the stationary Euler equations of hydrodynamics</title>
+    <summary>  This note concerns stationary solutions of the Euler equations for an ideal
+fluid on a closed 3-manifold. We prove that if the velocity field of such a
+solution has no zeroes and real analytic Bernoulli function, then it can be
+rescaled to the Reeb vector field of a stable Hamiltonian structure. In
+particular, such a vector field has a periodic orbit unless the 3-manifold is a
+torus bundle over the circle. We provide a counterexample showing that the
+correspondence breaks down without the real analyticity hypothesis.
+</summary>
+    <author>
+      <name>K. Cieliebak</name>
+    </author>
+    <author>
+      <name>E. Volkov</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.1017/etds.2015.50</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.1017/etds.2015.50" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">28 pages, no figures, counterexample added</arxiv:comment>
+    <link href="http://arxiv.org/abs/1402.6484v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1402.6484v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D35, 76B99" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/math/0702887v2</id>
+    <updated>2008-04-17T12:07:02Z</updated>
+    <published>2007-02-28T15:58:52Z</published>
+    <title>Symplectic hypersurfaces and transversality in Gromov-Witten theory</title>
+    <summary>  We use Donaldson hypersurfaces to construct pseudo-cycles which define
+Gromov-Witten invariants for any symplectic manifold which agree with the
+invariants in the cases where transversality could be achieved by perturbing
+the almost complex structure.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Klaus Mohnke</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">53 pages, final version</arxiv:comment>
+    <link href="http://arxiv.org/abs/math/0702887v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/math/0702887v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D45" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0706.3284v2</id>
+    <updated>2007-10-09T05:20:09Z</updated>
+    <published>2007-06-22T08:57:27Z</published>
+    <title>The role of string topology in symplectic field theory</title>
+    <summary>  We outline a program for incorporating holomorphic curves with Lagrangian
+boundary conditions into symplectic field theory, with an emphasis on ideas,
+geometric intuition, and a description of the resulting algebraic structures.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Janko Latschev</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">40 pages, 19 figures, last section changed into a joint appendix with
+  K. Mohnke</arxiv:comment>
+    <link href="http://arxiv.org/abs/0706.3284v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/0706.3284v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0710.0972v1</id>
+    <updated>2007-10-04T10:22:36Z</updated>
+    <published>2007-10-04T10:22:36Z</published>
+    <title>A Floer homology for exact contact embeddings</title>
+    <summary>  In this paper we construct the Floer homology for an action functional which
+was introduced by Rabinowitz and prove a vanishing theorem. As an application,
+we show that there are no displaceable exact contact embeddings of the unit
+cotangent bundle of a sphere of dimension greater than three into a convex
+exact symplectic manifold with vanishing first Chern class. This generalizes
+Gromov's result that there are no exact Lagrangian embeddings of a sphere into
+a complex vector space.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Urs Frauenfelder</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">43 pages, 1 figure</arxiv:comment>
+    <link href="http://arxiv.org/abs/0710.0972v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/0710.0972v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D10, 53D40" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0911.1805v1</id>
+    <updated>2009-11-09T23:29:53Z</updated>
+    <published>2009-11-09T23:29:53Z</published>
+    <title>Morse homology on noncompact manifolds</title>
+    <summary>  Given a Morse function on a manifold whose moduli spaces of gradient flow
+lines for each action window are compact up to breaking one gets a bidirect
+system of chain complexes. There are different possibilities to take limits of
+such a bidirect system. We discuss in this note the relation between these
+different limits.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Urs Frauenfelder</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">26 pages</arxiv:comment>
+    <link href="http://arxiv.org/abs/0911.1805v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/0911.1805v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D40" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1003.5084v3</id>
+    <updated>2010-12-17T10:01:55Z</updated>
+    <published>2010-03-26T08:40:47Z</published>
+    <title>First steps in stable Hamiltonian topology</title>
+    <summary>  In this paper we study topological properties of stable Hamiltonian
+structures. In particular, we prove the following results in dimension three:
+The space of stable Hamiltonian structures modulo homotopy is discrete; there
+exist stable Hamiltonian structures that are not homotopic to a positive
+contact structure; stable Hamiltonian structures are generically Morse-Bott
+(i.e. all closed orbits are Bott nondegenerate) but not Morse; the standard
+contact structure on the 3-sphere is homotopic to a stable Hamiltonian
+structure which cannot be embedded in 4-space. Moreover, we derive a structure
+theorem in dimension three and classify stable Hamiltonian structures supported
+by an open book. We also discuss implications for the foundations of symplectic
+field theory.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Evgeny Volkov</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">104 pages, 3 figures, reference added</arxiv:comment>
+    <link href="http://arxiv.org/abs/1003.5084v3" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1003.5084v3" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D35" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1012.3854v1</id>
+    <updated>2010-12-17T11:32:30Z</updated>
+    <published>2010-12-17T11:32:30Z</published>
+    <title>Stable Hamiltonian structures in dimension three are supported by open
+  books</title>
+    <summary>  We prove that every stable Hamiltonian structure on a closed oriented
+three-manifold is stably homotopic to one which is supported (with suitable
+signs) by an open book.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Evgeny Volkov</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">30 pages, 6 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1012.3854v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1012.3854v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D35" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1305.1635v1</id>
+    <updated>2013-05-07T20:10:12Z</updated>
+    <published>2013-05-07T20:10:12Z</published>
+    <title>Flexible Weinstein manifolds</title>
+    <summary>  This survey on flexible Weinstein manifolds is, essentially, an extract from
+our recent joint book.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Yasha Eliashberg</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">41 pages, 8 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1305.1635v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1305.1635v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D35" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1411.1870v2</id>
+    <updated>2014-11-28T07:36:45Z</updated>
+    <published>2014-11-07T09:51:22Z</published>
+    <title>Punctured holomorphic curves and Lagrangian embeddings</title>
+    <summary>  We use a neck stretching argument for holomorphic curves to produce
+symplectic disks of small area and Maslov class with boundary on Lagrangian
+submanifolds of nonpositive curvature. Applications include the proof of
+Audin's conjecture on the Maslov class of Lagrangian tori in linear symplectic
+space, the construction of a new symplectic capacity, obstructions to
+Lagrangian embeddings into uniruled symplectic manifolds, a quantitative
+version of Arnold's chord conjecture, and estimates on the size of Weinstein
+neighbourhoods. The main technical ingredient is transversality for the
+relevant moduli spaces of punctured holomorphic curves with tangency
+conditions.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Klaus Mohnke</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">61 pages, 3 (LaTeX) figures, reference added</arxiv:comment>
+    <link href="http://arxiv.org/abs/1411.1870v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1411.1870v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D42" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1509.05852v1</id>
+    <updated>2015-09-19T07:23:25Z</updated>
+    <published>2015-09-19T07:23:25Z</published>
+    <title>Hamiltonian unknottedness of certain monotone Lagrangian tori in
+  $S^2\times S^2$</title>
+    <summary>  We prove that a monotone Lagrangian torus in $S^2\times S^2$ which suitably
+sits in a symplectic fibration with two sections in its complement is
+Hamiltonian isotopic to the Clifford torus.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Martin Schwingenheuer</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">40 pages, 10 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1509.05852v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1509.05852v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D12" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/math/0409355v2</id>
+    <updated>2005-03-04T13:58:06Z</updated>
+    <published>2004-09-20T14:08:43Z</published>
+    <title>The Weinstein Conjecture for Planar Contact Structures in Dimension
+  Three</title>
+    <summary>  In this paper we describe a general strategy for approaching the Weinstein
+conjecture in dimension three. We apply this approach to prove the Weinstein
+conjecture for a new class of contact manifolds (planar contact manifolds). We
+also discuss how the present approach reduces the general Weinstein conjecture
+in dimension three to a compactness problem for the solution set of a first
+order elliptic PDE.
+</summary>
+    <author>
+      <name>Casim Abbas</name>
+    </author>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Helmut Hofer</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">19 pages, corrected some typos</arxiv:comment>
+    <link href="http://arxiv.org/abs/math/0409355v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/math/0409355v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D35, 57R57, 70H12" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0903.0768v1</id>
+    <updated>2009-03-04T14:48:34Z</updated>
+    <published>2009-03-04T14:48:34Z</published>
+    <title>Rabinowitz Floer homology and symplectic homology</title>
+    <summary>  The Rabinowitz-Floer homology groups $RFH_*(M,W)$ are associated to an exact
+embedding of a contact manifold $(M,\xi)$ into a symplectic manifold
+$(W,\omega)$. They depend only on the bounded component $V$ of $W\setminus M$.
+We construct a long exact sequence in which symplectic cohomology of $V$ maps
+to symplectic homology of $V$, which in turn maps to Rabinowitz-Floer homology
+$RFH_*(M,W)$, which then maps to symplectic cohomology of $V$. We compute
+$RFH_*(ST^*L,T^*L)$, where $ST^*L$ is the unit cosphere bundle of a closed
+manifold $L$. As an application, we prove that the image of an exact contact
+embedding of $ST^*L$ (endowed with the standard contact structure) cannot be
+displaced away from itself by a Hamiltonian isotopy, provided $\dim L\ge 4$ and
+the embedding induces an injection on $\pi_1$. In particular, $ST^*L$ does not
+admit an exact contact embedding into a subcritical Stein manifold if $L$ is
+simply connected. We also prove that Weinstein's conjecture holds in symplectic
+manifolds which admit exact displaceable codimension 0 embeddings.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Urs Frauenfelder</name>
+    </author>
+    <author>
+      <name>Alexandru Oancea</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">59 pages, 8 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/0903.0768v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/0903.0768v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D40; 57R17" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0903.2200v1</id>
+    <updated>2009-03-12T15:52:44Z</updated>
+    <published>2009-03-12T15:52:44Z</published>
+    <title>Compactness for holomorphic curves with switching Lagrangian boundary
+  conditions</title>
+    <summary>  We prove a compactness result for holomorphic curves with boundary on an
+immersed Lagrangian submanifold with clean self-intersection. As a consequence,
+we show that the number of intersections of such holomorphic curves with the
+self-intersection locus is uniformly bounded in terms of the Hofer energy.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Tobias Ekholm</name>
+    </author>
+    <author>
+      <name>Janko Latschev</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">28 pages, no figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/0903.2200v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/0903.2200v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D40" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/math/0310046v3</id>
+    <updated>2004-12-03T16:49:35Z</updated>
+    <published>2003-10-03T19:31:11Z</published>
+    <title>A note on mean curvature, Maslov class and symplectic area of Lagrangian
+  immersions</title>
+    <summary>  In this note we prove a simple relation between the mean curvature form,
+symplectic area, and the Maslov class of a Lagrangian immersion in a
+K\"ahler-Einstein manifold. An immediate consequence is that in
+K\"ahler-Einstein manifolds with positive scalar curvature, minimal Lagrangian
+immersions are monotone.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Edward Goldstein</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">J. Symplectic Geom. vol 2 (2004), issue 2, 261-266</arxiv:comment>
+    <link href="http://arxiv.org/abs/math/0310046v3" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/math/0310046v3" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.DG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.DG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53XX" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0707.1068v1</id>
+    <updated>2007-07-07T04:32:41Z</updated>
+    <published>2007-07-07T04:32:41Z</published>
+    <title>A note on Reeb dynamics on the tight 3-sphere</title>
+    <summary>  We show that a nondegenerate tight contact form on the 3-sphere has exactly
+two simple closed Reeb orbits if and only if the differential in linearized
+contact homology vanishes. Moreover, in this case the Floquet multipliers and
+Conley-Zehnder indices of the two Reeb orbits agree with those of a suitable
+irrational ellipsoid in 4-space.
+</summary>
+    <author>
+      <name>F. Bourgeois</name>
+    </author>
+    <author>
+      <name>K. Cieliebak</name>
+    </author>
+    <author>
+      <name>T. Ekholm</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">20 pages, no figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/0707.1068v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/0707.1068v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.DS" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1305.1614v2</id>
+    <updated>2014-02-27T08:29:29Z</updated>
+    <published>2013-05-07T19:25:35Z</published>
+    <title>The topology of rationally and polynomially convex domains</title>
+    <summary>  We give in this article necessary and sufficient conditions on the topology
+of rationally and polynomially convex domains.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Yakov Eliashberg</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">23 pages, no figures, final version to appear in Invent. Math</arxiv:comment>
+    <link href="http://arxiv.org/abs/1305.1614v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1305.1614v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="32E20, 53D35" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1305.1619v1</id>
+    <updated>2013-05-07T19:55:49Z</updated>
+    <published>2013-05-07T19:55:49Z</published>
+    <title>Stein structures: existence and flexibility</title>
+    <summary>  This survey on the topology of Stein manifolds is an extract from our recent
+joint book. It is compiled from two short lecture series given by the first
+author in 2012 at the Institute for Advanced Study, Princeton, and the Alfred
+Renyi Institute of Mathematics, Budapest.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Yakov Eliashberg</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">29 pages, 11 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1305.1619v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1305.1619v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="32Q28, 53D35" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1511.00485v1</id>
+    <updated>2015-11-02T13:13:00Z</updated>
+    <published>2015-11-02T13:13:00Z</published>
+    <title>Symplectic homology and the Eilenberg-Steenrod axioms</title>
+    <summary>  We give a definition of symplectic homology for pairs of filled Liouville
+cobordisms, and explore some of its consequences.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Alexandru Oancea</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">92 pages, 15 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1511.00485v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1511.00485v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.AT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.DG" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/math/0111176v2</id>
+    <updated>2002-10-03T11:18:21Z</updated>
+    <published>2001-11-15T09:59:19Z</published>
+    <title>The symplectic vortex equations and invariants of Hamiltonian group
+  actions</title>
+    <summary>  In this paper we define invariants of Hamiltonian group actions for central
+regular values of the moment map. The key hypotheses are that the moment map is
+proper and that the ambient manifold is symplectically aspherical. The
+invariants are based on the symplectic vortex equations. Applications include
+an existence theorem for relative periodic orbits, a computation for circle
+actions on a complex vector space, and a theorem about the relation between the
+invariants introduced here and the Seiberg--Witten invariants of a product of a
+Riemann surface with a two-sphere.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">Stanford University</arxiv:affiliation>
+    </author>
+    <author>
+      <name>A. Rita Gaio</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">Fac. Ciências, Univ. Porto</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Ignasi Mundet i Riera</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">Universidad Autónoma de Madrid</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Dietmar Salamon</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">ETH-Zürich</arxiv:affiliation>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">87 pages</arxiv:comment>
+    <link href="http://arxiv.org/abs/math/0111176v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/math/0111176v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="37Jxx; 53Dxx" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/math/0209170v2</id>
+    <updated>2002-09-18T13:14:58Z</updated>
+    <published>2002-09-13T15:06:53Z</published>
+    <title>Wall crossing for symplectic vortices and quantum cohomology</title>
+    <summary>  We derive a wall crossing formula for the symplectic vortex invariants of
+toric manifolds. As an application, we give a proof of Batyrev's formula for
+the quantum cohomology of a monotone toric manifold with minimal Chern number
+at least two.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Dietmar A. Salamon</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">45 pages, no figures, some typos removed</arxiv:comment>
+    <link href="http://arxiv.org/abs/math/0209170v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/math/0209170v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.GT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D45" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/math/0210468v2</id>
+    <updated>2002-11-12T23:12:29Z</updated>
+    <published>2002-10-30T22:37:10Z</published>
+    <title>Symplectic homology and periodic orbits near symplectic submanifolds</title>
+    <summary>  We show that a small neighborhood of a closed symplectic submanifold in a
+geometrically bounded aspherical symplectic manifold has non-vanishing
+symplectic homology. As a consequence, we establish the existence of
+contractible closed characteristics on any thickening of the boundary of the
+neighborhood. When applied to twisted geodesic flows on compact symplectically
+aspherical manifolds, this implies the existence of contractible periodic
+orbits for a dense set of low energy values.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Viktor L. Ginzburg</name>
+    </author>
+    <author>
+      <name>Ely Kerman</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">21 pages, 1 figure. reference added</arxiv:comment>
+    <link href="http://arxiv.org/abs/math/0210468v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/math/0210468v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.DG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.DG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="57R17 53D40 37J45" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/math/0506191v1</id>
+    <updated>2005-06-10T10:03:06Z</updated>
+    <published>2005-06-10T10:03:06Z</published>
+    <title>Quantitative symplectic geometry</title>
+    <summary>  While symplectic manifolds have no local invariants, they do admit many
+global numerical invariants. Prominent among them are the so-called symplectic
+capacities.
+  Different capacities are defined in different ways, and so relations between
+capacities often lead to surprising relations between different aspects of
+symplectic geometry and Hamiltonian dynamics. In this paper we present an
+attempt to better understand the space of all symplectic capacities, and
+discuss some further general properties of symplectic capacities.
+  We also describe several new relations between certain symplectic capacities
+on ellipsoids and polydiscs. Throughout the discussion we mention many open
+problems.
+</summary>
+    <author>
+      <name>K. Cieliebak</name>
+    </author>
+    <author>
+      <name>H. Hofer</name>
+    </author>
+    <author>
+      <name>J. Latschev</name>
+    </author>
+    <author>
+      <name>F. Schlenk</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">43 pages, 3 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/math/0506191v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/math/0506191v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.DG" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0908.2540v1</id>
+    <updated>2009-08-18T10:38:48Z</updated>
+    <published>2009-08-18T10:38:48Z</published>
+    <title>Stability is not open</title>
+    <summary>  We give an example of a symplectic manifold with a stable hypersurface such
+that nearby hypersurfaces are typically unstable.
+</summary>
+    <author>
+      <name>K. Cieliebak</name>
+    </author>
+    <author>
+      <name>U. Frauenfelder</name>
+    </author>
+    <author>
+      <name>G. P. Paternain</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">9 pages</arxiv:comment>
+    <link href="http://arxiv.org/abs/0908.2540v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/0908.2540v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.DS" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1110.1021v1</id>
+    <updated>2011-10-05T15:26:18Z</updated>
+    <published>2011-10-05T15:26:18Z</published>
+    <title>The Cartan geometry of the rotating Kepler problem</title>
+    <summary>  We investigate the Cartan and Finsler geometry of the rotating Kepler
+problem, a limit case of the restricted three body problem that arises if the
+mass of the one of the primaries goes to zero. We show that the Hamiltonian for
+the rotating Kepler problem can be regarded as the Legendre transform of a
+certain family of Finsler metrics on the two-sphere. For very negative energy
+levels, these Finsler metrics are close to the round metric, and the associated
+flag curvature is hence positive. On the other hand, we show that the flag
+curvature can become negative once the energy level becomes sufficiently high.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Urs Frauenfelder</name>
+    </author>
+    <author>
+      <name>Otto van Koert</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">14 pages, 4 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1110.1021v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1110.1021v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.DG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.DG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0903.0700v4</id>
+    <updated>2010-08-10T08:06:10Z</updated>
+    <published>2009-03-04T06:50:08Z</published>
+    <title>Symplectic topology of Mañé's critical values</title>
+    <summary>  We study the dynamics and symplectic topology of energy hypersurfaces of
+mechanical Hamiltonians on twisted cotangent bundles. We pay particular
+attention to periodic orbits, displaceability, stability and the contact type
+property, and the changes that occur at the Mane critical value c. Our main
+tool is Rabinowitz Floer homology. We show that it is defined for hypersurfaces
+that are either stable tame or virtually contact, and it is invariant under
+under homotopies in these classes. If the configuration space admits a metric
+of negative curvature, then Rabinowitz Floer homology does not vanish for
+energy levels k&gt;c and, as a consequence, these level sets are not displaceable.
+We provide a large class of examples in which Rabinowitz Floer homology is
+non-zero for energy levels k&gt;c but vanishes for k&lt;c, so levels above and below
+c cannot be connected by a stable tame homotopy. Moreover, we show that for
+strictly 1/4-pinched negative curvature and non-exact magnetic fields all
+sufficiently high energy levels are non-stable, provided that the dimension of
+the base manifold is even and different from two.
+</summary>
+    <author>
+      <name>K. Cieliebak</name>
+    </author>
+    <author>
+      <name>U. Frauenfelder</name>
+    </author>
+    <author>
+      <name>G. P. Paternain</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.2140/gt.2010.14.1765</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.2140/gt.2010.14.1765" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">101 pages, no figures, final version appeared in Geometry and
+  Topology</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Geom. Topol. 14 (2010) 1765-1870</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/0903.0700v4" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/0903.0700v4" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.DS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D40, 37D40" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1508.02741v3</id>
+    <updated>2016-07-14T17:45:49Z</updated>
+    <published>2015-08-11T20:52:27Z</published>
+    <title>Homological algebra related to surfaces with boundary</title>
+    <summary>  In this article we describe an algebraic framework which can be used in three
+related but different contexts: string topology, symplectic field theory, and
+Lagrangian Floer theory of higher genus. It turns out that the relevant
+algebraic structure for all three contexts is a homotopy version of involutive
+bi-Lie algebras, which we call IBL$_\infty$-algebras.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Kenji Fukaya</name>
+    </author>
+    <author>
+      <name>Janko Latschev</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">127 pages, 22 figures. Some references added in version 2. Fixed a
+  tex problem in version 3</arxiv:comment>
+    <link href="http://arxiv.org/abs/1508.02741v3" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1508.02741v3" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.QA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.QA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1601.02167v1</id>
+    <updated>2016-01-09T23:58:10Z</updated>
+    <published>2016-01-09T23:58:10Z</published>
+    <title>Knot contact homology, string topology, and the cord algebra</title>
+    <summary>  The conormal Lagrangian $L_K$ of a knot $K$ in $\mathbb{R}^3$ is the
+submanifold of the cotangent bundle $T^* \mathbb{R}^3$ consisting of covectors
+along $K$ that annihilate tangent vectors to $K$. By intersecting with the unit
+cotangent bundle $S^* \mathbb{R}^3$, one obtains the unit conormal $\Lambda_K$,
+and the Legendrian contact homology of $\Lambda_K$ is a knot invariant of $K$,
+known as knot contact homology. We define a version of string topology for
+strings in $\mathbb{R}^3 \cup L_K$ and prove that this is isomorphic in degree
+0 to knot contact homology. The string topology perspective gives a topological
+derivation of the cord algebra (also isomorphic to degree 0 knot contact
+homology) and relates it to the knot group. Together with the isomorphism this
+gives a new proof that knot contact homology detects the unknot. Our techniques
+involve a detailed analysis of certain moduli spaces of holomorphic disks in
+$T^* \mathbb{R}^3$ with boundary on $\mathbb{R}^3 \cup L_K$.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Tobias Ekholm</name>
+    </author>
+    <author>
+      <name>Janko Latschev</name>
+    </author>
+    <author>
+      <name>Lenhard Ng</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">107 pages</arxiv:comment>
+    <link href="http://arxiv.org/abs/1601.02167v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1601.02167v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.GT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D42, 55P50, 57R17, 57M27" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/math/9909122v1</id>
+    <updated>1999-09-21T19:15:23Z</updated>
+    <published>1999-09-21T19:15:23Z</published>
+    <title>J-holomorphic curves, moment maps, and invariants of Hamiltonian group
+  actions</title>
+    <summary>  We outline the construction of invariants of Hamiltonian group actions on
+symplectic manifolds. These invariants can be viewed as an equivariant version
+of Gromov-Witten invariants. They are derived from solutions of a PDE involving
+the Cauchy-Riemann operator, the curvature of a connection, and the moment map.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Ana Rita Gaio</name>
+    </author>
+    <author>
+      <name>Dietmar A. Salamon</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">55 pages, no figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/math/9909122v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/math/9909122v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.GT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53C15; 53C07" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1405.2303v2</id>
+    <updated>2015-05-06T08:09:29Z</updated>
+    <published>2014-05-09T18:31:30Z</published>
+    <title>Symplectic Tate homology</title>
+    <summary>  For a Liouville domain $W$ satisfying $c_1(W)=0$, we propose in this note two
+versions of symplectic Tate homology $\underrightarrow{H}\underleftarrow{T}(W)$
+and $\underleftarrow{H}\underrightarrow{T}(W)$ which are related by a canonical
+map $\kappa \colon \underrightarrow{H}\underleftarrow{T}(W) \to
+\underleftarrow{H}\underrightarrow{T}(W)$. Our geometric approach to Tate
+homology uses the moduli space of finite energy gradient flow lines of the
+Rabinowitz action functional for a circle in the complex plane as a classifying
+space for $S^1$-equivariant Tate homology. For rational coefficients the
+symplectic Tate homology $\underrightarrow{H}\underleftarrow{T}(W)$ has the
+fixed point property and is therefore isomorphic to $H(W;\mathbb{Q}) \otimes
+\mathrm{Q}[u,u^{-1}]$, where $\mathbb{Q}[u,u^{-1}]$ is the ring of Laurent
+polynomials over the rationals. Using a deep theorem of Goodwillie, we
+construct examples of Liouville domains where the canonical map $\kappa$ is not
+surjective and examples where it is not injective.
+</summary>
+    <author>
+      <name>Peter Albers</name>
+    </author>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Urs Frauenfelder</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.1112/plms/pdv065</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.1112/plms/pdv065" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">40 pages, 4 figures; v2: various improvements</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Proceedings of the London Mathematical Society, (2016), 169 - 205</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/1405.2303v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1405.2303v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.AT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.GT" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+</feed>

@@ -1,0 +1,2601 @@
+{
+   "{http://www.w3.org/2005/Atom}feed" : {
+      "{http://www.w3.org/2005/Atom}title" : {
+         "#tail" : "\n  ",
+         "#text" : "ArXiv Query: search_query=cat:math.SG AND au:cieliebak&id_list=&start=0&max_results=80",
+         "@type" : "html"
+      },
+      "{http://www.w3.org/2005/Atom}entry" : [
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Subcritical Stein manifolds are split"
+            },
+            "{http://www.w3.org/2005/Atom}author" : {
+               "#tail" : "\n    ",
+               "#text" : "\n      ",
+               "{http://www.w3.org/2005/Atom}name" : {
+                  "#tail" : "\n    ",
+                  "#text" : "Kai Cieliebak"
+               }
+            },
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.DG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2002-04-30T11:54:22Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  It is shown that every subcritical Stein manifold is deformation equivalent\nto the product of a Stein manifold with $\\C$.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2002-04-30T11:54:22Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/math/0204351v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/math/0204351v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "6 pages"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.DG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/math/0204351v1"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "A note on the stationary Euler equations of hydrodynamics"
+            },
+            "{http://arxiv.org/schemas/atom}doi" : {
+               "#tail" : "\n    ",
+               "#text" : "10.1017/etds.2015.50"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "K. Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "E. Volkov"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2014-02-26T10:48:01Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  This note concerns stationary solutions of the Euler equations for an ideal\nfluid on a closed 3-manifold. We prove that if the velocity field of such a\nsolution has no zeroes and real analytic Bernoulli function, then it can be\nrescaled to the Reeb vector field of a stable Hamiltonian structure. In\nparticular, such a vector field has a periodic orbit unless the 3-manifold is a\ntorus bundle over the circle. We provide a counterexample showing that the\ncorrespondence breaks down without the real analyticity hypothesis.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2014-03-15T16:39:23Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@title" : "doi",
+                  "@href" : "http://dx.doi.org/10.1017/etds.2015.50",
+                  "#tail" : "\n    ",
+                  "@rel" : "related"
+               },
+               {
+                  "@href" : "http://arxiv.org/abs/1402.6484v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/1402.6484v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "28 pages, no figures, counterexample added"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53D35, 76B99"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/1402.6484v2"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Symplectic hypersurfaces and transversality in Gromov-Witten theory"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Klaus Mohnke"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2007-02-28T15:58:52Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  We use Donaldson hypersurfaces to construct pseudo-cycles which define\nGromov-Witten invariants for any symplectic manifold which agree with the\ninvariants in the cases where transversality could be achieved by perturbing\nthe almost complex structure.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2008-04-17T12:07:02Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/math/0702887v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/math/0702887v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "53 pages, final version"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53D45"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/math/0702887v2"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "The role of string topology in symplectic field theory"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Janko Latschev"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2007-06-22T08:57:27Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  We outline a program for incorporating holomorphic curves with Lagrangian\nboundary conditions into symplectic field theory, with an emphasis on ideas,\ngeometric intuition, and a description of the resulting algebraic structures.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2007-10-09T05:20:09Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/0706.3284v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/0706.3284v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "40 pages, 19 figures, last section changed into a joint appendix with\n  K. Mohnke"
+            },
+            "{http://www.w3.org/2005/Atom}category" : {
+               "#tail" : "\n  ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/0706.3284v2"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "A Floer homology for exact contact embeddings"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Urs Frauenfelder"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2007-10-04T10:22:36Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  In this paper we construct the Floer homology for an action functional which\nwas introduced by Rabinowitz and prove a vanishing theorem. As an application,\nwe show that there are no displaceable exact contact embeddings of the unit\ncotangent bundle of a sphere of dimension greater than three into a convex\nexact symplectic manifold with vanishing first Chern class. This generalizes\nGromov's result that there are no exact Lagrangian embeddings of a sphere into\na complex vector space.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2007-10-04T10:22:36Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/0710.0972v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/0710.0972v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "43 pages, 1 figure"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53D10, 53D40"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/0710.0972v1"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Morse homology on noncompact manifolds"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Urs Frauenfelder"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2009-11-09T23:29:53Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  Given a Morse function on a manifold whose moduli spaces of gradient flow\nlines for each action window are compact up to breaking one gets a bidirect\nsystem of chain complexes. There are different possibilities to take limits of\nsuch a bidirect system. We discuss in this note the relation between these\ndifferent limits.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2009-11-09T23:29:53Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/0911.1805v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/0911.1805v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "26 pages"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53D40"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/0911.1805v1"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "First steps in stable Hamiltonian topology"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Evgeny Volkov"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2010-03-26T08:40:47Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  In this paper we study topological properties of stable Hamiltonian\nstructures. In particular, we prove the following results in dimension three:\nThe space of stable Hamiltonian structures modulo homotopy is discrete; there\nexist stable Hamiltonian structures that are not homotopic to a positive\ncontact structure; stable Hamiltonian structures are generically Morse-Bott\n(i.e. all closed orbits are Bott nondegenerate) but not Morse; the standard\ncontact structure on the 3-sphere is homotopic to a stable Hamiltonian\nstructure which cannot be embedded in 4-space. Moreover, we derive a structure\ntheorem in dimension three and classify stable Hamiltonian structures supported\nby an open book. We also discuss implications for the foundations of symplectic\nfield theory.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2010-12-17T10:01:55Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/1003.5084v3",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/1003.5084v3",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "104 pages, 3 figures, reference added"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53D35"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/1003.5084v3"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Stable Hamiltonian structures in dimension three are supported by open\n  books"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Evgeny Volkov"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2010-12-17T11:32:30Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  We prove that every stable Hamiltonian structure on a closed oriented\nthree-manifold is stably homotopic to one which is supported (with suitable\nsigns) by an open book.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2010-12-17T11:32:30Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/1012.3854v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/1012.3854v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "30 pages, 6 figures"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53D35"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/1012.3854v1"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Flexible Weinstein manifolds"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Yasha Eliashberg"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2013-05-07T20:10:12Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  This survey on flexible Weinstein manifolds is, essentially, an extract from\nour recent joint book.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2013-05-07T20:10:12Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/1305.1635v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/1305.1635v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "41 pages, 8 figures"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53D35"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/1305.1635v1"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Punctured holomorphic curves and Lagrangian embeddings"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Klaus Mohnke"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2014-11-07T09:51:22Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  We use a neck stretching argument for holomorphic curves to produce\nsymplectic disks of small area and Maslov class with boundary on Lagrangian\nsubmanifolds of nonpositive curvature. Applications include the proof of\nAudin's conjecture on the Maslov class of Lagrangian tori in linear symplectic\nspace, the construction of a new symplectic capacity, obstructions to\nLagrangian embeddings into uniruled symplectic manifolds, a quantitative\nversion of Arnold's chord conjecture, and estimates on the size of Weinstein\nneighbourhoods. The main technical ingredient is transversality for the\nrelevant moduli spaces of punctured holomorphic curves with tangency\nconditions.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2014-11-28T07:36:45Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/1411.1870v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/1411.1870v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "61 pages, 3 (LaTeX) figures, reference added"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53D42"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/1411.1870v2"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Hamiltonian unknottedness of certain monotone Lagrangian tori in\n  $S^2\\times S^2$"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Martin Schwingenheuer"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2015-09-19T07:23:25Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  We prove that a monotone Lagrangian torus in $S^2\\times S^2$ which suitably\nsits in a symplectic fibration with two sections in its complement is\nHamiltonian isotopic to the Clifford torus.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2015-09-19T07:23:25Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/1509.05852v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/1509.05852v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "40 pages, 10 figures"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53D12"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/1509.05852v1"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "The Weinstein Conjecture for Planar Contact Structures in Dimension\n  Three"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Casim Abbas"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Helmut Hofer"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2004-09-20T14:08:43Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  In this paper we describe a general strategy for approaching the Weinstein\nconjecture in dimension three. We apply this approach to prove the Weinstein\nconjecture for a new class of contact manifolds (planar contact manifolds). We\nalso discuss how the present approach reduces the general Weinstein conjecture\nin dimension three to a compactness problem for the solution set of a first\norder elliptic PDE.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2005-03-04T13:58:06Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/math/0409355v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/math/0409355v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "19 pages, corrected some typos"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53D35, 57R57, 70H12"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/math/0409355v2"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Rabinowitz Floer homology and symplectic homology"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Urs Frauenfelder"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Alexandru Oancea"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2009-03-04T14:48:34Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  The Rabinowitz-Floer homology groups $RFH_*(M,W)$ are associated to an exact\nembedding of a contact manifold $(M,\\xi)$ into a symplectic manifold\n$(W,\\omega)$. They depend only on the bounded component $V$ of $W\\setminus M$.\nWe construct a long exact sequence in which symplectic cohomology of $V$ maps\nto symplectic homology of $V$, which in turn maps to Rabinowitz-Floer homology\n$RFH_*(M,W)$, which then maps to symplectic cohomology of $V$. We compute\n$RFH_*(ST^*L,T^*L)$, where $ST^*L$ is the unit cosphere bundle of a closed\nmanifold $L$. As an application, we prove that the image of an exact contact\nembedding of $ST^*L$ (endowed with the standard contact structure) cannot be\ndisplaced away from itself by a Hamiltonian isotopy, provided $\\dim L\\ge 4$ and\nthe embedding induces an injection on $\\pi_1$. In particular, $ST^*L$ does not\nadmit an exact contact embedding into a subcritical Stein manifold if $L$ is\nsimply connected. We also prove that Weinstein's conjecture holds in symplectic\nmanifolds which admit exact displaceable codimension 0 embeddings.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2009-03-04T14:48:34Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/0903.0768v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/0903.0768v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "59 pages, 8 figures"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53D40; 57R17"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/0903.0768v1"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Compactness for holomorphic curves with switching Lagrangian boundary\n  conditions"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Tobias Ekholm"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Janko Latschev"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2009-03-12T15:52:44Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  We prove a compactness result for holomorphic curves with boundary on an\nimmersed Lagrangian submanifold with clean self-intersection. As a consequence,\nwe show that the number of intersections of such holomorphic curves with the\nself-intersection locus is uniformly bounded in terms of the Hofer energy.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2009-03-12T15:52:44Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/0903.2200v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/0903.2200v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "28 pages, no figures"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53D40"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/0903.2200v1"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "A note on mean curvature, Maslov class and symplectic area of Lagrangian\n  immersions"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Edward Goldstein"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.DG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2003-10-03T19:31:11Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  In this note we prove a simple relation between the mean curvature form,\nsymplectic area, and the Maslov class of a Lagrangian immersion in a\nK\\\"ahler-Einstein manifold. An immediate consequence is that in\nK\\\"ahler-Einstein manifolds with positive scalar curvature, minimal Lagrangian\nimmersions are monotone.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2004-12-03T16:49:35Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/math/0310046v3",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/math/0310046v3",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "J. Symplectic Geom. vol 2 (2004), issue 2, 261-266"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.DG"
+               },
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53XX"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/math/0310046v3"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "A note on Reeb dynamics on the tight 3-sphere"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "F. Bourgeois"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "K. Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "T. Ekholm"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2007-07-07T04:32:41Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  We show that a nondegenerate tight contact form on the 3-sphere has exactly\ntwo simple closed Reeb orbits if and only if the differential in linearized\ncontact homology vanishes. Moreover, in this case the Floquet multipliers and\nConley-Zehnder indices of the two Reeb orbits agree with those of a suitable\nirrational ellipsoid in 4-space.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2007-07-07T04:32:41Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/0707.1068v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/0707.1068v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "20 pages, no figures"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.DS"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/0707.1068v1"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "The topology of rationally and polynomially convex domains"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Yakov Eliashberg"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.CV"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2013-05-07T19:25:35Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  We give in this article necessary and sufficient conditions on the topology\nof rationally and polynomially convex domains.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2014-02-27T08:29:29Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/1305.1614v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/1305.1614v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "23 pages, no figures, final version to appear in Invent. Math"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.CV"
+               },
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "32E20, 53D35"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/1305.1614v2"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Stein structures: existence and flexibility"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Yakov Eliashberg"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2013-05-07T19:55:49Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  This survey on the topology of Stein manifolds is an extract from our recent\njoint book. It is compiled from two short lecture series given by the first\nauthor in 2012 at the Institute for Advanced Study, Princeton, and the Alfred\nRenyi Institute of Mathematics, Budapest.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2013-05-07T19:55:49Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/1305.1619v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/1305.1619v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "29 pages, 11 figures"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.CV"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "32Q28, 53D35"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/1305.1619v1"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Symplectic homology and the Eilenberg-Steenrod axioms"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Alexandru Oancea"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2015-11-02T13:13:00Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  We give a definition of symplectic homology for pairs of filled Liouville\ncobordisms, and explore some of its consequences.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2015-11-02T13:13:00Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/1511.00485v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/1511.00485v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "92 pages, 15 figures"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.AT"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.DG"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/1511.00485v1"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "The symplectic vortex equations and invariants of Hamiltonian group\n  actions"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "{http://arxiv.org/schemas/atom}affiliation" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Stanford University"
+                  },
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n      ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "{http://arxiv.org/schemas/atom}affiliation" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Fac. Ciências, Univ. Porto"
+                  },
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n      ",
+                     "#text" : "A. Rita Gaio"
+                  }
+               },
+               {
+                  "{http://arxiv.org/schemas/atom}affiliation" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Universidad Autónoma de Madrid"
+                  },
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n      ",
+                     "#text" : "Ignasi Mundet i Riera"
+                  }
+               },
+               {
+                  "{http://arxiv.org/schemas/atom}affiliation" : {
+                     "#tail" : "\n    ",
+                     "#text" : "ETH-Zürich"
+                  },
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n      ",
+                     "#text" : "Dietmar Salamon"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2001-11-15T09:59:19Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  In this paper we define invariants of Hamiltonian group actions for central\nregular values of the moment map. The key hypotheses are that the moment map is\nproper and that the ambient manifold is symplectically aspherical. The\ninvariants are based on the symplectic vortex equations. Applications include\nan existence theorem for relative periodic orbits, a computation for circle\nactions on a complex vector space, and a theorem about the relation between the\ninvariants introduced here and the Seiberg--Witten invariants of a product of a\nRiemann surface with a two-sphere.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2002-10-03T11:18:21Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/math/0111176v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/math/0111176v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "87 pages"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "37Jxx; 53Dxx"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/math/0111176v2"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Wall crossing for symplectic vortices and quantum cohomology"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Dietmar A. Salamon"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2002-09-13T15:06:53Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  We derive a wall crossing formula for the symplectic vortex invariants of\ntoric manifolds. As an application, we give a proof of Batyrev's formula for\nthe quantum cohomology of a monotone toric manifold with minimal Chern number\nat least two.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2002-09-18T13:14:58Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/math/0209170v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/math/0209170v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "45 pages, no figures, some typos removed"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.GT"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53D45"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/math/0209170v2"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Symplectic homology and periodic orbits near symplectic submanifolds"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Viktor L. Ginzburg"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Ely Kerman"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.DG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2002-10-30T22:37:10Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  We show that a small neighborhood of a closed symplectic submanifold in a\ngeometrically bounded aspherical symplectic manifold has non-vanishing\nsymplectic homology. As a consequence, we establish the existence of\ncontractible closed characteristics on any thickening of the boundary of the\nneighborhood. When applied to twisted geodesic flows on compact symplectically\naspherical manifolds, this implies the existence of contractible periodic\norbits for a dense set of low energy values.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2002-11-12T23:12:29Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/math/0210468v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/math/0210468v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "21 pages, 1 figure. reference added"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.DG"
+               },
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "57R17 53D40 37J45"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/math/0210468v2"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Quantitative symplectic geometry"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "K. Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "H. Hofer"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "J. Latschev"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "F. Schlenk"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2005-06-10T10:03:06Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  While symplectic manifolds have no local invariants, they do admit many\nglobal numerical invariants. Prominent among them are the so-called symplectic\ncapacities.\n  Different capacities are defined in different ways, and so relations between\ncapacities often lead to surprising relations between different aspects of\nsymplectic geometry and Hamiltonian dynamics. In this paper we present an\nattempt to better understand the space of all symplectic capacities, and\ndiscuss some further general properties of symplectic capacities.\n  We also describe several new relations between certain symplectic capacities\non ellipsoids and polydiscs. Throughout the discussion we mention many open\nproblems.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2005-06-10T10:03:06Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/math/0506191v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/math/0506191v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "43 pages, 3 figures"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.DG"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/math/0506191v1"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Stability is not open"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "K. Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "U. Frauenfelder"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "G. P. Paternain"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2009-08-18T10:38:48Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  We give an example of a symplectic manifold with a stable hypersurface such\nthat nearby hypersurfaces are typically unstable.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2009-08-18T10:38:48Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/0908.2540v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/0908.2540v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "9 pages"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.DS"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/0908.2540v1"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "The Cartan geometry of the rotating Kepler problem"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Urs Frauenfelder"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Otto van Koert"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.DG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2011-10-05T15:26:18Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  We investigate the Cartan and Finsler geometry of the rotating Kepler\nproblem, a limit case of the restricted three body problem that arises if the\nmass of the one of the primaries goes to zero. We show that the Hamiltonian for\nthe rotating Kepler problem can be regarded as the Legendre transform of a\ncertain family of Finsler metrics on the two-sphere. For very negative energy\nlevels, these Finsler metrics are close to the round metric, and the associated\nflag curvature is hence positive. On the other hand, we show that the flag\ncurvature can become negative once the energy level becomes sufficiently high.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2011-10-05T15:26:18Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/1110.1021v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/1110.1021v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "14 pages, 4 figures"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.DG"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/1110.1021v1"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Symplectic topology of Mañé's critical values"
+            },
+            "{http://arxiv.org/schemas/atom}doi" : {
+               "#tail" : "\n    ",
+               "#text" : "10.2140/gt.2010.14.1765"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "K. Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "U. Frauenfelder"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "G. P. Paternain"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2009-03-04T06:50:08Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  We study the dynamics and symplectic topology of energy hypersurfaces of\nmechanical Hamiltonians on twisted cotangent bundles. We pay particular\nattention to periodic orbits, displaceability, stability and the contact type\nproperty, and the changes that occur at the Mane critical value c. Our main\ntool is Rabinowitz Floer homology. We show that it is defined for hypersurfaces\nthat are either stable tame or virtually contact, and it is invariant under\nunder homotopies in these classes. If the configuration space admits a metric\nof negative curvature, then Rabinowitz Floer homology does not vanish for\nenergy levels k>c and, as a consequence, these level sets are not displaceable.\nWe provide a large class of examples in which Rabinowitz Floer homology is\nnon-zero for energy levels k>c but vanishes for k<c, so levels above and below\nc cannot be connected by a stable tame homotopy. Moreover, we show that for\nstrictly 1/4-pinched negative curvature and non-exact magnetic fields all\nsufficiently high energy levels are non-stable, provided that the dimension of\nthe base manifold is even and different from two.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://arxiv.org/schemas/atom}journal_ref" : {
+               "#tail" : "\n    ",
+               "#text" : "Geom. Topol. 14 (2010) 1765-1870"
+            },
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2010-08-10T08:06:10Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@title" : "doi",
+                  "@href" : "http://dx.doi.org/10.2140/gt.2010.14.1765",
+                  "#tail" : "\n    ",
+                  "@rel" : "related"
+               },
+               {
+                  "@href" : "http://arxiv.org/abs/0903.0700v4",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/0903.0700v4",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "101 pages, no figures, final version appeared in Geometry and\n  Topology"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.DS"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53D40, 37D40"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/0903.0700v4"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Homological algebra related to surfaces with boundary"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kenji Fukaya"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Janko Latschev"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.QA"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2015-08-11T20:52:27Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  In this article we describe an algebraic framework which can be used in three\nrelated but different contexts: string topology, symplectic field theory, and\nLagrangian Floer theory of higher genus. It turns out that the relevant\nalgebraic structure for all three contexts is a homotopy version of involutive\nbi-Lie algebras, which we call IBL$_\\infty$-algebras.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2016-07-14T17:45:49Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/1508.02741v3",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/1508.02741v3",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "127 pages, 22 figures. Some references added in version 2. Fixed a\n  tex problem in version 3"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.QA"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/1508.02741v3"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Knot contact homology, string topology, and the cord algebra"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Tobias Ekholm"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Janko Latschev"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Lenhard Ng"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2016-01-09T23:58:10Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  The conormal Lagrangian $L_K$ of a knot $K$ in $\\mathbb{R}^3$ is the\nsubmanifold of the cotangent bundle $T^* \\mathbb{R}^3$ consisting of covectors\nalong $K$ that annihilate tangent vectors to $K$. By intersecting with the unit\ncotangent bundle $S^* \\mathbb{R}^3$, one obtains the unit conormal $\\Lambda_K$,\nand the Legendrian contact homology of $\\Lambda_K$ is a knot invariant of $K$,\nknown as knot contact homology. We define a version of string topology for\nstrings in $\\mathbb{R}^3 \\cup L_K$ and prove that this is isomorphic in degree\n0 to knot contact homology. The string topology perspective gives a topological\nderivation of the cord algebra (also isomorphic to degree 0 knot contact\nhomology) and relates it to the knot group. Together with the isomorphism this\ngives a new proof that knot contact homology detects the unknot. Our techniques\ninvolve a detailed analysis of certain moduli spaces of holomorphic disks in\n$T^* \\mathbb{R}^3$ with boundary on $\\mathbb{R}^3 \\cup L_K$.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2016-01-09T23:58:10Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/1601.02167v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/1601.02167v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "107 pages"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.GT"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53D42, 55P50, 57R17, 57M27"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/1601.02167v1"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "J-holomorphic curves, moment maps, and invariants of Hamiltonian group\n  actions"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Ana Rita Gaio"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Dietmar A. Salamon"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "1999-09-21T19:15:23Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  We outline the construction of invariants of Hamiltonian group actions on\nsymplectic manifolds. These invariants can be viewed as an equivariant version\nof Gromov-Witten invariants. They are derived from solutions of a PDE involving\nthe Cauchy-Riemann operator, the curvature of a connection, and the moment map.\n"
+            },
+            "#tail" : "\n  ",
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "1999-09-21T19:15:23Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@href" : "http://arxiv.org/abs/math/9909122v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/math/9909122v1",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "55 pages, no figures"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.GT"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "53C15; 53C07"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/math/9909122v1"
+            }
+         },
+         {
+            "{http://www.w3.org/2005/Atom}title" : {
+               "#tail" : "\n    ",
+               "#text" : "Symplectic Tate homology"
+            },
+            "{http://arxiv.org/schemas/atom}doi" : {
+               "#tail" : "\n    ",
+               "#text" : "10.1112/plms/pdv065"
+            },
+            "{http://www.w3.org/2005/Atom}author" : [
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Peter Albers"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Kai Cieliebak"
+                  }
+               },
+               {
+                  "#tail" : "\n    ",
+                  "#text" : "\n      ",
+                  "{http://www.w3.org/2005/Atom}name" : {
+                     "#tail" : "\n    ",
+                     "#text" : "Urs Frauenfelder"
+                  }
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}primary_category" : {
+               "#tail" : "\n    ",
+               "@scheme" : "http://arxiv.org/schemas/atom",
+               "@term" : "math.SG"
+            },
+            "{http://www.w3.org/2005/Atom}published" : {
+               "#tail" : "\n    ",
+               "#text" : "2014-05-09T18:31:30Z"
+            },
+            "{http://www.w3.org/2005/Atom}summary" : {
+               "#tail" : "\n    ",
+               "#text" : "  For a Liouville domain $W$ satisfying $c_1(W)=0$, we propose in this note two\nversions of symplectic Tate homology $\\underrightarrow{H}\\underleftarrow{T}(W)$\nand $\\underleftarrow{H}\\underrightarrow{T}(W)$ which are related by a canonical\nmap $\\kappa \\colon \\underrightarrow{H}\\underleftarrow{T}(W) \\to\n\\underleftarrow{H}\\underrightarrow{T}(W)$. Our geometric approach to Tate\nhomology uses the moduli space of finite energy gradient flow lines of the\nRabinowitz action functional for a circle in the complex plane as a classifying\nspace for $S^1$-equivariant Tate homology. For rational coefficients the\nsymplectic Tate homology $\\underrightarrow{H}\\underleftarrow{T}(W)$ has the\nfixed point property and is therefore isomorphic to $H(W;\\mathbb{Q}) \\otimes\n\\mathrm{Q}[u,u^{-1}]$, where $\\mathbb{Q}[u,u^{-1}]$ is the ring of Laurent\npolynomials over the rationals. Using a deep theorem of Goodwillie, we\nconstruct examples of Liouville domains where the canonical map $\\kappa$ is not\nsurjective and examples where it is not injective.\n"
+            },
+            "#tail" : "\n",
+            "{http://arxiv.org/schemas/atom}journal_ref" : {
+               "#tail" : "\n    ",
+               "#text" : "Proceedings of the London Mathematical Society, (2016), 169 - 205"
+            },
+            "{http://www.w3.org/2005/Atom}updated" : {
+               "#tail" : "\n    ",
+               "#text" : "2015-05-06T08:09:29Z"
+            },
+            "#text" : "\n    ",
+            "{http://www.w3.org/2005/Atom}link" : [
+               {
+                  "@title" : "doi",
+                  "@href" : "http://dx.doi.org/10.1112/plms/pdv065",
+                  "#tail" : "\n    ",
+                  "@rel" : "related"
+               },
+               {
+                  "@href" : "http://arxiv.org/abs/1405.2303v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "alternate",
+                  "@type" : "text/html"
+               },
+               {
+                  "@title" : "pdf",
+                  "@href" : "http://arxiv.org/pdf/1405.2303v2",
+                  "#tail" : "\n    ",
+                  "@rel" : "related",
+                  "@type" : "application/pdf"
+               }
+            ],
+            "{http://arxiv.org/schemas/atom}comment" : {
+               "#tail" : "\n    ",
+               "#text" : "40 pages, 4 figures; v2: various improvements"
+            },
+            "{http://www.w3.org/2005/Atom}category" : [
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.SG"
+               },
+               {
+                  "#tail" : "\n    ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.AT"
+               },
+               {
+                  "#tail" : "\n  ",
+                  "@scheme" : "http://arxiv.org/schemas/atom",
+                  "@term" : "math.GT"
+               }
+            ],
+            "{http://www.w3.org/2005/Atom}id" : {
+               "#tail" : "\n    ",
+               "#text" : "http://arxiv.org/abs/1405.2303v2"
+            }
+         }
+      ],
+      "{http://a9.com/-/spec/opensearch/1.1/}itemsPerPage" : {
+         "#tail" : "\n  ",
+         "#text" : "80"
+      },
+      "{http://www.w3.org/2005/Atom}updated" : {
+         "#tail" : "\n  ",
+         "#text" : "2017-03-21T00:00:00-04:00"
+      },
+      "#text" : "\n  ",
+      "{http://www.w3.org/2005/Atom}link" : {
+         "@href" : "http://arxiv.org/api/query?search_query%3Dcat%3Amath.SG%20AND%20au%3Acieliebak%26id_list%3D%26start%3D0%26max_results%3D80",
+         "#tail" : "\n  ",
+         "@rel" : "self",
+         "@type" : "application/atom+xml"
+      },
+      "{http://a9.com/-/spec/opensearch/1.1/}totalResults" : {
+         "#tail" : "\n  ",
+         "#text" : "30"
+      },
+      "{http://www.w3.org/2005/Atom}id" : {
+         "#tail" : "\n  ",
+         "#text" : "http://arxiv.org/api/AjuYuIs+scVLRYD9r0uMaJ0Wbws"
+      },
+      "{http://a9.com/-/spec/opensearch/1.1/}startIndex" : {
+         "#tail" : "\n  ",
+         "#text" : "0"
+      }
+   }
+}

@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link href="http://arxiv.org/api/query?search_query%3Dcat%3Amath.SG%20AND%20au%3Aeliashberg%26id_list%3D%26start%3D0%26max_results%3D80" rel="self" type="application/atom+xml"/>
+  <title type="html">ArXiv Query: search_query=cat:math.SG AND au:eliashberg&amp;id_list=&amp;start=0&amp;max_results=80</title>
+  <id>http://arxiv.org/api/QgpJAGsxuTKp6wvUp/XtMPt9pBE</id>
+  <updated>2017-03-21T00:00:00-04:00</updated>
+  <opensearch:totalResults xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">17</opensearch:totalResults>
+  <opensearch:startIndex xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">0</opensearch:startIndex>
+  <opensearch:itemsPerPage xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">80</opensearch:itemsPerPage>
+  <entry>
+    <id>http://arxiv.org/abs/math/0311459v2</id>
+    <updated>2004-02-27T13:59:23Z</updated>
+    <published>2003-11-26T00:03:16Z</published>
+    <title>A few remarks about symplectic filling</title>
+    <summary>  We show that any compact symplectic manifold (W,\omega) with boundary embeds
+as a domain into a closed symplectic manifold, provided that there exists a
+contact plane \xi on dW which is weakly compatible with omega, i.e. the
+restriction \omega |\xi does not vanish and the contact orientation of dW and
+its orientation as the boundary of the symplectic manifold W coincide. This
+result provides a useful tool for new applications by Ozsvath-Szabo of
+Seiberg-Witten Floer homology theories in three-dimensional topology and has
+helped complete the Kronheimer-Mrowka proof of Property P for knots.
+</summary>
+    <author>
+      <name>Yakov Eliashberg</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">Published by Geometry and Topology at
+  http://www.maths.warwick.ac.uk/gt/GTVol8/paper6.abs.html</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Geom. Topol. 8(2004) 277-293</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/math/0311459v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/math/0311459v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.GT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53C15, 57M50" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1006.2501v1</id>
+    <updated>2010-06-12T23:15:12Z</updated>
+    <published>2010-06-12T23:15:12Z</published>
+    <title>Symplectic quasi-states on the quadric surface and Lagrangian
+  submanifolds</title>
+    <summary>  The quantum homology of the monotone complex quadric surface splits into the
+sum of two fields. We outline a proof of the following statement: The unities
+of these fields give rise to distinct symplectic quasi-states defined by
+asymptotic spectral invariants. In fact, these quasi-states turn out to be
+"supported" on disjoint Lagrangian submanifolds. Our method involves a spectral
+sequence which starts at homology of the loop space of the 2-sphere and whose
+higher differentials are computed via symplectic field theory, in particular
+with the help of the Bourgeois-Oancea exact sequence.
+</summary>
+    <author>
+      <name>Yakov Eliashberg</name>
+    </author>
+    <author>
+      <name>Leonid Polterovich</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">22 pages</arxiv:comment>
+    <link href="http://arxiv.org/abs/1006.2501v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1006.2501v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53Dxx" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1305.1635v1</id>
+    <updated>2013-05-07T20:10:12Z</updated>
+    <published>2013-05-07T20:10:12Z</published>
+    <title>Flexible Weinstein manifolds</title>
+    <summary>  This survey on flexible Weinstein manifolds is, essentially, an extract from
+our recent joint book.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Yasha Eliashberg</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">41 pages, 8 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1305.1635v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1305.1635v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D35" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1012.4218v4</id>
+    <updated>2015-03-02T09:36:37Z</updated>
+    <published>2010-12-19T23:26:07Z</published>
+    <title>Symplectic homology product via Legendrian surgery</title>
+    <summary>  This research announcement continues the study of the symplectic homology of
+Weinstein manifolds undertaken in [BEE1] where the symplectic homology, as a
+vector space, was expressed in terms of the Legendrian homology algebra of the
+attaching spheres of critical handles. Here we express the product and
+$\BV$-operator of symplectic homology in that context.
+</summary>
+    <author>
+      <name>Frederic Bourgeois</name>
+    </author>
+    <author>
+      <name>Tobias Ekholm</name>
+    </author>
+    <author>
+      <name>Yakov Eliashberg</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.1073/pnas.1019102108</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.1073/pnas.1019102108" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">30 pages, 4 figures. v2: a number of typos were corrected. v3:
+  corrected sign error in Equation (2.4)</arxiv:comment>
+    <link href="http://arxiv.org/abs/1012.4218v4" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1012.4218v4" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D05, 53D10, 53D40" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/math/0101196v2</id>
+    <updated>2001-01-24T01:01:44Z</updated>
+    <published>2001-01-23T23:40:36Z</published>
+    <title>Holonomic approximation and Gromov's h-principle</title>
+    <summary>  In 1969 M. Gromov in his PhD thesis greatly generalized Smale-Hirsch-Phillips
+immersion-submersion theory by proving what is now called the h-principle for
+invariant open differential relations over open manifolds. Gromov extracted the
+original geometric idea of Smale and put it to work in the maximal possible
+generality. Gromov's thesis was brought to the West by A. Phillips and was
+popularized in his talks. However, most western mathematicians first learned
+about Gromov's theory from A. Haefliger's article. The current paper is devoted
+to the same subject as the papers of Gromov and Haefliger. It seems to us that
+we further purified Smale-Gromov's original idea by extracting from it a simple
+but very general theorem about holonomic approximation of sections of
+jet-bundles (see Theorem 1.2.1 below). We show below that Gromov's theorem as
+well as some other results in the h-principle spirit are immediate corollaries
+of Theorem 1.2.1.
+</summary>
+    <author>
+      <name>Y. M. Eliashberg</name>
+    </author>
+    <author>
+      <name>N. M. Mishachev</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">15 pages</arxiv:comment>
+    <link href="http://arxiv.org/abs/math/0101196v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/math/0101196v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.GT" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1303.0586v1</id>
+    <updated>2013-03-04T00:45:18Z</updated>
+    <published>2013-03-04T00:45:18Z</published>
+    <title>Lagrangian caps</title>
+    <summary>  We establish an $h$-principle for exact Lagrangian embeddings with concave
+Legendrian boundary. We prove, in particular, that in the complement of the
+unit ball $B$ in the standard symplectic $\R^{2n}, 2n\geq 6$, there exists an
+embedded Lagrangian $n$-disc transversely attached to $B$ along its Legendrian
+boundary.
+</summary>
+    <author>
+      <name>Yakov Eliashberg</name>
+    </author>
+    <author>
+      <name>Emmy Murphy</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">38 pages, 6 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1303.0586v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1303.0586v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.GT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D12, 53D05, 53D10, 57N35" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1305.1614v2</id>
+    <updated>2014-02-27T08:29:29Z</updated>
+    <published>2013-05-07T19:25:35Z</published>
+    <title>The topology of rationally and polynomially convex domains</title>
+    <summary>  We give in this article necessary and sufficient conditions on the topology
+of rationally and polynomially convex domains.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Yakov Eliashberg</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">23 pages, no figures, final version to appear in Invent. Math</arxiv:comment>
+    <link href="http://arxiv.org/abs/1305.1614v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1305.1614v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="32E20, 53D35" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1305.1619v1</id>
+    <updated>2013-05-07T19:55:49Z</updated>
+    <published>2013-05-07T19:55:49Z</published>
+    <title>Stein structures: existence and flexibility</title>
+    <summary>  This survey on the topology of Stein manifolds is an extract from our recent
+joint book. It is compiled from two short lecture series given by the first
+author in 2012 at the Institute for Advanced Study, Princeton, and the Alfred
+Renyi Institute of Mathematics, Budapest.
+</summary>
+    <author>
+      <name>Kai Cieliebak</name>
+    </author>
+    <author>
+      <name>Yakov Eliashberg</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">29 pages, 11 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1305.1619v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1305.1619v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="32Q28, 53D35" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1504.06312v2</id>
+    <updated>2015-05-14T19:28:33Z</updated>
+    <published>2015-04-23T19:48:20Z</published>
+    <title>Making cobordisms symplectic</title>
+    <summary>  We establish an existence $h$-principle for symplectic cobordisms of
+dimension $2n&gt;4$ with concave overtwisted contact boundary.
+</summary>
+    <author>
+      <name>Yakov Eliashberg</name>
+    </author>
+    <author>
+      <name>Emmy Murphy</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">17 pages, 3 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1504.06312v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1504.06312v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.GT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D05, 53D10, 53D35" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/math/9910065v1</id>
+    <updated>1999-10-13T15:35:04Z</updated>
+    <published>1999-10-13T15:35:04Z</published>
+    <title>Partially ordered groups and geometry of contact transformations</title>
+    <summary>  We prove, for a class of contact manifolds, that the universal cover of the
+group of contact diffeomorphisms carries a natural partial order. It leads to a
+new viewpoint on geometry and dynamics of contactomorphisms. It gives rise to
+invariants of contactomorphisms which generalize the classical notion of the
+rotation number. Our approach is based on tools of Symplectic Topology.
+</summary>
+    <author>
+      <name>Yakov Eliashberg</name>
+    </author>
+    <author>
+      <name>Leonid Polterovich</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">Latex, 35 pages, preliminary version</arxiv:comment>
+    <link href="http://arxiv.org/abs/math/9910065v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/math/9910065v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.DG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.DS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.GR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="58Dxx (Primary) 58F05, 53C15, 06Fxx (Secondary)" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/math/0511658v2</id>
+    <updated>2009-03-06T11:29:59Z</updated>
+    <published>2005-11-27T17:49:04Z</published>
+    <title>Geometry of contact transformations and domains: orderability versus
+  squeezing</title>
+    <summary>  Gromov's famous non-squeezing theorem (1985) states that the standard
+symplectic ball cannot be symplectically squeezed into any cylinder of smaller
+radius. Does there exist an analogue of this result in contact geometry? Our
+main finding is that the answer depends on the sizes of the domains in
+question: We establish contact non-squeezing on large scales, and show that it
+disappears on small scales. The algebraic counterpart of the (non)-squeezing
+problem for contact domains is the question of existence of a natural partial
+order on the universal cover of the contactomorphisms group of a contact
+manifold. In contrast to our earlier beliefs, we show that the answer to this
+question is very sensitive to the topology of the manifold. For instance, we
+prove that the standard contact sphere is non-orderable while the real
+projective space is known to be orderable. Our methods include a new embedding
+technique in contact geometry as well as a generalized Floer homology theory
+which contains both cylindrical contact homology and Hamiltonian Floer
+homology. We discuss links to a number of miscellaneous topics such as topology
+of free loops spaces, quantum mechanics and semigroups.
+  An erratum is attached whose purpose is to is to correct a number of
+inconsistencies in the main paper. These are related to the grading of
+generalized Floer homology and do not affect formulations and proofs of the
+main results of the paper.
+</summary>
+    <author>
+      <name>Yakov Eliashberg</name>
+    </author>
+    <author>
+      <name>Sang Seon Kim</name>
+    </author>
+    <author>
+      <name>Leonid Polterovich</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.2140/gt.2006.10.1635 10.2140/gt.2009.13.1175</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.2140/gt.2006.10.1635" rel="related"/>
+    <link title="doi" href="http://dx.doi.org/10.2140/gt.2009.13.1175" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">This is the version published by Geometry &amp; Topology on 28 October
+  2006 and includes the erratum published 1 February 2009</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Geom. Topol. 10 (2006) 1635-1747</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/math/0511658v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/math/0511658v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.GR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D10, 53D40, 53D35, 53D50" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0911.0026v4</id>
+    <updated>2011-03-08T23:17:27Z</updated>
+    <published>2009-10-30T21:36:48Z</published>
+    <title>Effect of Legendrian Surgery</title>
+    <summary>  The paper is a summary of the results of the authors concerning computations
+of symplectic invariants of Weinstein manifolds and contains some examples and
+applications. Proofs are sketched. The detailed proofs will appear in our
+forthcoming paper. In the Appendix written by S. Ganatra and M. Maydanskiy it
+is shown that the results of this paper imply P. Seidel's conjecture equating
+symplectic homology with Hochschild homology of a certain Fukaya category.
+</summary>
+    <author>
+      <name>Frédéric Bourgeois</name>
+    </author>
+    <author>
+      <name>Tobias Ekholm</name>
+    </author>
+    <author>
+      <name>Yakov Eliashberg</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">v.4 is significantly extended, especially Sections 6 and 8. Several
+  other sections, including Appendix are rewritten</arxiv:comment>
+    <link href="http://arxiv.org/abs/0911.0026v4" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/0911.0026v4" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.GT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D42, 53D40, 53D12, 57R17" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1404.6157v2</id>
+    <updated>2014-10-12T15:07:18Z</updated>
+    <published>2014-04-24T15:31:07Z</published>
+    <title>Existence and classification of overtwisted contact structures in all
+  dimensions</title>
+    <summary>  We establish a parametric extension $h$-principle for overtwisted contact
+structures on manifolds of all dimensions, which is the direct generalization
+of the $3$-dimensional result from \cite{Eli89}. It implies, in particular,
+that any closed manifold admits a contact structure in any given homotopy class
+of almost contact structures.
+</summary>
+    <author>
+      <name>Matthew Strom Borman</name>
+    </author>
+    <author>
+      <name>Yakov Eliashberg</name>
+    </author>
+    <author>
+      <name>Emmy Murphy</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">86 pages, 16 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1404.6157v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1404.6157v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.GT" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1510.01287v2</id>
+    <updated>2016-08-15T20:41:42Z</updated>
+    <published>2015-10-05T19:08:37Z</published>
+    <title>Flexible Lagrangians</title>
+    <summary>  We introduce and discuss notions of regularity and flexibility for Lagrangian
+manifolds with Legendrian boundary in Weinstein domains. There is a surprising
+abundance of flexible Lagrangians. In turn, this leads to new constructions of
+Legendrians submanifolds and Weinstein manifolds. For instance, many closed
+$n$-manifolds of dimension $n&gt;2$ can be realized as exact Lagrangian
+submanifolds of $T^*S^n$ with possibly exotic Weinstein symplectic structures.
+These Weinstein structures on $T^* S^n$, infinitely many of which are distinct,
+are formed by a single handle attachment to the standard $2n$-ball along the
+Legendrian boundaries of flexible Lagrangians. We also formulate a number of
+open problems.
+</summary>
+    <author>
+      <name>Yakov Eliashberg</name>
+    </author>
+    <author>
+      <name>Sheel Ganatra</name>
+    </author>
+    <author>
+      <name>Oleg Lazarev</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">14 pages, 3 figures New version is restructured and expanded, new
+  results are added</arxiv:comment>
+    <link href="http://arxiv.org/abs/1510.01287v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1510.01287v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.GT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D05, 53D10, 53D35" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1303.0588v2</id>
+    <updated>2013-07-02T11:44:38Z</updated>
+    <published>2013-03-04T01:03:40Z</published>
+    <title>Constructing exact Lagrangian immersions with few double points</title>
+    <summary>  We establish an $h$-principle for exact Lagrangian immersions with transverse
+self-intersections and the minimal, or near-minimal number of double points.
+One corollary of our result is that any orientable closed 3-manifold admits an
+exact Lagrangian immersion into standard symplectic 6-space $\R^6_\st$ with
+exactly one transverse double point. Our construction also yields a Lagrangian
+embedding $S^1\times S^2\to\R^6_\st$ with vanishing Maslov class.
+</summary>
+    <author>
+      <name>Tobias Ekholm</name>
+    </author>
+    <author>
+      <name>Yakov Eliashberg</name>
+    </author>
+    <author>
+      <name>Emmy Murphy</name>
+    </author>
+    <author>
+      <name>Ivan Smith</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">In the new version corrected some misprints, added clarifications and
+  filled a small gap in the proof of Lemma 3.4</arxiv:comment>
+    <link href="http://arxiv.org/abs/1303.0588v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1303.0588v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.GT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D12, 53D05, 53D10, 57N35" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/math/0308183v3</id>
+    <updated>2004-01-02T14:12:32Z</updated>
+    <published>2003-08-19T21:34:13Z</published>
+    <title>Compactness results in Symplectic Field Theory</title>
+    <summary>  This is one in a series of papers devoted to the foundations of
+  Symplectic Field Theory sketched in [Y Eliashberg, A Givental and H
+  Hofer, Introduction to Symplectic Field Theory,
+  Geom. Funct. Anal. Special Volume, Part II (2000) 560--673]. We prove
+compactness results for moduli spaces of holomorphic curves arising in
+Symplectic Field Theory. The theorems generalize Gromov's compactness theorem
+in [M Gromov, Pseudo-holomorphic curves in symplectic manifolds, Invent. Math.
+82 (1985) 307--347] as well as compactness theorems in Floer homology theory,
+[A Floer, The unregularized gradient flow of the symplectic action, Comm. Pure
+  Appl. Math. 41 (1988) 775--813 and Morse theory for Lagrangian intersections,
+J. Diff. Geom. 28 (1988) 513--547], and in contact geometry, [H Hofer,
+Pseudo-holomorphic curves and Weinstein conjecture in dimension three, Invent.
+Math. 114 (1993) 307--347 and
+  H Hofer, K Wysocki and E Zehnder, Foliations of the Tight Three
+  Sphere, Annals of Mathematics, 157 (2003) 125--255].
+</summary>
+    <author>
+      <name>F Bourgeois</name>
+    </author>
+    <author>
+      <name>Y Eliashberg</name>
+    </author>
+    <author>
+      <name>H Hofer</name>
+    </author>
+    <author>
+      <name>K Wysocki</name>
+    </author>
+    <author>
+      <name>E Zehnder</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.2140/gt.2003.7.799</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.2140/gt.2003.7.799" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">Published by Geometry and Topology at
+  http://www.maths.warwick.ac.uk/gt/GTVol7/paper25.abs.html</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Geom. Topol. 7 (2003) 799-888</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/math/0308183v3" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/math/0308183v3" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.AG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.DG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D30, 53D35, 53D05, 57R17" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/math/0010059v1</id>
+    <updated>2000-10-06T05:53:41Z</updated>
+    <published>2000-10-06T05:53:41Z</published>
+    <title>Introduction to Symplectic Field Theory</title>
+    <summary>  We sketch in this article a new theory, which we call Symplectic Field Theory
+or SFT, which provides an approach to Gromov-Witten invariants of symplectic
+manifolds and their Lagrangian submanifolds in the spirit of topological field
+theory, and at the same time serves as a rich source of new invariants of
+contact manifolds and their Legendrian submanifolds. Moreover, we hope that the
+applications of SFT go far beyond this framework.
+</summary>
+    <author>
+      <name>Yakov Eliashberg</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">Stanford</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Alexander Givental</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">UC Berkeley</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Helmut Hofer</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">NYU</arxiv:affiliation>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">102 pages, 4 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/math/0010059v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/math/0010059v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.AG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.MP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="53D40, 53D45" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+</feed>
