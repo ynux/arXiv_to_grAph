@@ -1,0 +1,102 @@
+{
+   "guidislink" : true,
+   "updated" : "2017-09-27T06:57:45Z",
+   "_rawid" : "1709.09358",
+   "title" : "Contact orderability up to conjugation",
+   "id" : "http://arxiv.org/abs/1709.09358v1",
+   "published" : "2017-09-27T06:57:45Z",
+   "arxiv_doi" : "10.1134/S1560354717060028",
+   "published_parsed" : [
+      2017,
+      9,
+      27,
+      6,
+      57,
+      45,
+      2,
+      270,
+      0
+   ],
+   "author_detail" : {
+      "name" : "Leonid Polterovich"
+   },
+   "links" : [
+      {
+         "rel" : "related",
+         "href" : "http://dx.doi.org/10.1134/S1560354717060028",
+         "title" : "doi",
+         "type" : "text/html"
+      },
+      {
+         "href" : "http://arxiv.org/abs/1709.09358v1",
+         "rel" : "alternate",
+         "type" : "text/html"
+      },
+      {
+         "type" : "application/pdf",
+         "rel" : "related",
+         "href" : "http://arxiv.org/pdf/1709.09358v1",
+         "title" : "pdf"
+      }
+   ],
+   "author" : "Leonid Polterovich",
+   "_version" : 1,
+   "arxiv_primary_category" : {
+      "term" : "math.SG",
+      "scheme" : "http://arxiv.org/schemas/atom"
+   },
+   "arxiv_comment" : "28 pages, 1 figure",
+   "link" : "http://arxiv.org/abs/1709.09358v1",
+   "updated_parsed" : [
+      2017,
+      9,
+      27,
+      6,
+      57,
+      45,
+      2,
+      270,
+      0
+   ],
+   "authors" : [
+      {
+         "name" : "Kai Cieliebak"
+      },
+      {
+         "name" : "Yakov Eliashberg"
+      },
+      {
+         "name" : "Leonid Polterovich"
+      }
+   ],
+   "summary" : "We study in this paper the remnants of the contact partial order on the\norbits of the adjoint action of contactomorphism groups on their Lie algebras.\nOur main interest is a class of non-compact contact manifolds, called convex at\ninfinity.",
+   "tags" : [
+      {
+         "scheme" : "http://arxiv.org/schemas/atom",
+         "label" : null,
+         "term" : "math.SG"
+      },
+      {
+         "scheme" : "http://arxiv.org/schemas/atom",
+         "label" : null,
+         "term" : "math.GT"
+      },
+      {
+         "scheme" : "http://arxiv.org/schemas/atom",
+         "label" : null,
+         "term" : "53D10, 53D40, 53D35, 53D50"
+      }
+   ],
+   "title_detail" : {
+      "base" : "",
+      "type" : "text/plain",
+      "language" : null,
+      "value" : "Contact orderability up to conjugation"
+   },
+   "summary_detail" : {
+      "value" : "We study in this paper the remnants of the contact partial order on the\norbits of the adjoint action of contactomorphism groups on their Lie algebras.\nOur main interest is a class of non-compact contact manifolds, called convex at\ninfinity.",
+      "base" : "",
+      "type" : "text/plain",
+      "language" : null
+   }
+}
