@@ -4,7 +4,7 @@ Exercise for the Spark: The Definitive Guide. Chapter 26: Classification
 
 ```
 head -100 db.json > db100.json
-while read line; do jq '{ pub_year: .published_parsed[0], arxiv_primary_category: .arxiv_primary_category.term, version: ._version, author }' >> classify.json; done < db100.json
+while read line; do jq -c '{ pub_year: .published_parsed[0], arxiv_primary_category: .arxiv_primary_category.term, version: ._version, author }' >> classify.json; done < db100.json
 ```
 I only chose simple features and excluded arrays such as the authors and tag terms. Note that the "author" isn't really the authors, but the user who uploaded the paper, usually one of the real authors. The authors, however, are an array of names, which would complicate things. This example is meant to be as simple as doable, even if this means sacrificing content.
 
@@ -105,3 +105,83 @@ res13: Long = 76
 scala> 
 ```
 So I'll do *better* always guessing 0.0. And use less resources, too. Again, we experience the limits of usefulness of machine learning.
+
+Let's ignore all issues and create a pipeline for the first model. Assume that the data is loaded with "result" as double. Back in python, following a datacamp intro example:
+```
+from pyspark.ml.feature import Binarizer, RFormula
+from pyspark.ml.classification import LogisticRegression
+from pyspark.ml import Pipeline
+import pyspark.ml.evaluation as evals
+import pyspark.ml.tuning as tune
+import numpy as np
+
+path = "../gitprojects/arXiv_to_grAph/spark/classify.json"
+arxson = spark.read.json(path).selectExpr("arxiv_primary_category", "author", "pub_year", "cast(version as double) as version")
+
+versionbinarizer = Binarizer(threshold=1.5, inputCol="version", outputCol="version_gt_one")
+arxformula = RFormula(formula="version_gt_one ~ arxiv_primary_category + author + pub_year", featuresCol="features", labelCol="label")
+ 
+arxiv_pipeline = Pipeline(stages=[versionbinarizer, arxformula]) 
+piped_arxiv = arxiv_pipeline.fit(arxson).transform(arxson)
+training, test = piped_arxiv.randomSplit([.6,.4])
+
+lr = LogisticRegression()
+evaluator = evals.BinaryClassificationEvaluator(metricName="areaUnderROC")
+
+grid = tune.ParamGridBuilder()
+grid = grid.addGrid(lr.regParam, np.arange(0, .1, .01))
+grid = grid.addGrid(lr.elasticNetParam,[0,1] )
+grid = grid.build()
+
+cv = tune.CrossValidator(estimator=lr, estimatorParamMaps=grid, evaluator=evaluator)
+
+best_lr = lr.fit(training)
+test_results = best_lr.transform(test)
+
+```
+
+0.510344827586 ...  well. We knew this, but it still hurts to see it. With the authorless model:
+```
+arxformula = RFormula(formula="version_gt_one ~ arxiv_primary_category + pub_year", featuresCol="features", labelCol="label")
+...
+>>> print(evaluator.evaluate(test_results))                                     0.589655172414
+>>> 
+
+```
+Ouch. Does increasing the data volume help, from 100 to 6656, the full data set?
+It runs fast, the author-model goes up to 0.596508584978, the authorless one down to 0.523086887446 . 
+
+
+How would i define my always-0-model?
+What if I restricted to authors with more than 10 papers?
+```
+cat ../db.json | jq -c '{ author }' | sort | uniq -c | sort -n | sed '/^   /d' | cut -d\" -f4 > more_than_10.csv
+```
+If you get the impression that i did DevOps for too long to prefer SQL over sed, I won't blame you. Now, however, I have to join the authors with our dataframe.
+
+```
+path_csv="../gitprojects/arXiv_to_grAph/spark/more_than_10.csv"
+from pyspark.sql import SQLContext
+from pyspark.sql.types import StructType, StructField, StringType
+
+author_schema = StructType([ StructField("author", StringType(), True)])
+more_than_10 = spark.read.csv(path_csv, header="false", schema=author_schema)
+
+arxson_morethan10 = more_than_10.join(arxson, "author")
+arxson_morethan10.count()
+```
+We end up with 1994 rows, this looks promising. With author, our score goes up to 0.643755166253 ! Isn't it amazing. Now we expect the authorless model to be worse - unless, of course, the same authors publish with the same primary category (possible) or always in the same year (less so). And it meets our expectations: 0.490128898684 . All time low.
+
+But the other one is actually better than our dumb estimator!
+```
+>>> arxson_morethan10.filter("version > 1.0").count()
+1178
+>>> arxson_morethan10.filter("version == 1.0").count()
+816
+>>> arxson_morethan10.count()
+1994
+>>> 1178.0/1994
+0.5907723169508525
+>>> 
+```
+I think this is a good point for claiming victory and leaving the field.
